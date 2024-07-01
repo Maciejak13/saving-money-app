@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ZpiExpenseManger</string>
+    <string name="zaloguj_sie">Zaloguj Sie</string>
+    <string name="email">Email</string>
+    <string name="haslo">Haslo</string>
+    <string name="zaloguj_si_aby_kontynuowa">Zaloguj sie aby kontynuowac</string>
+    <string name="witaj_spowrotem">Witaj z powrotem !</string>
+    <string name="imie">Imie</string>
+    <string name="powtorz_haslo">Powtorz haslo</string>
+    <string name="stworz_konto">Stworz konto</string>
+    <string name="Stworz_nowe_konto">Stworz nowe konto</string>
+    <string name="dodaj_zdjecie">Dodaj Zdjecie</string>
+    <string name="dodaj_income" />
+
+    <string-array name="category">
+        <item>Czynsz i rachunki</item>
+        <item>Paliwo i dojazdy</item>\
+        <item>Rozrywka</item>
+        <item>Jedzenie</item>
+        <item>Wyjścia</item>
+        <item>Inne</item>
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361815361632",
+    "project_id": "zpiexpensemanger",
+    "storage_bucket": "zpiexpensemanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361815361632:android:ab78f3363a1412c4819b05",
+        "android_client_info": {
+          "package_name": "com.example.zpiexpensemanger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9iYPN4f1qYas2FnWC83KbCc97gHWL32s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
